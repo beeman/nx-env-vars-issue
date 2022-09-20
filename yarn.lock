@@ -820,7 +820,7 @@
     "@nrwl/linter" "14.7.6"
     "@nrwl/node" "14.7.6"
 
-"@nrwl/node@14.7.6":
+"@nrwl/node@14.7.6", "@nrwl/node@^14.7.6":
   version "14.7.6"
   resolved "https://registry.yarnpkg.com/@nrwl/node/-/node-14.7.6.tgz#0a38f721d22e8e38ed971e20003a0d3f7c08923c"
   integrity sha512-owoYHwStmzk3a5ajDnTTjHr+O/70mF4py2hp+hqYFGm+oMRMr/hPCCDZ6HrKYvV7WMTss6uSF+L0cN5I0KEY1A==
